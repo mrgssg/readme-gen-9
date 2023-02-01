@@ -1,4 +1,6 @@
 // TODO: Include packages needed for this application
+const license = ["MIT", "GPLv2", "GPLv3", "Apache"]
+const generateMarkdown = require('./generateMarkdown');
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -45,7 +47,7 @@ const questions = [
     {
         type: "input",
         name: "questions",
-        message: "enter any questions:"
+        message: "enter username and email:"
     }
 ];
 
@@ -55,7 +57,9 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    writeToFile(generateMarkdown);
+}
 
 // Function call to initialize app
 init();
