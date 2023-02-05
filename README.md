@@ -1,9 +1,9 @@
-# mark 
+# readme gen 
   undefined
 
   ## Description
 
-  mark
+  proj info
 
   ## Table of Contents
 
@@ -22,20 +22,20 @@
   ## Installation 
 
    ```
-  mark
+  ans quest
   ```
 
   ## Usage
 
-  mark
+  education
 
   ## license
-    this project is licensed under the MIT license
+    this project is licensed under the APACHE 2.0 license
 
   ## Tests
 
-  mark
+  n/a
 
   ## Questions
 
-  mrg ssg 
+  mrgssg@email 
