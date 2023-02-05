@@ -87,13 +87,11 @@ function generateMarkdown(data) {
 
   ${data.usage}
 
-  ## License
-
   ${renderLicenseSection(data.license)}
 
   ## Contributing
 
-  ${data.contributing}
+  ${data.contributing_guidelines}
 
   ## Tests
 

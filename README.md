@@ -1,9 +1,9 @@
-# test lic 
+# README Generator 
   
 
   ## Description
 
-  lic atest
+  This command-line application generates a professional README.md file from a user's input.
 
   ## Table of Contents
 
@@ -22,26 +22,24 @@
   ## Installation 
 
    ```
-  adddd
+  Use npm install and node to access and use this application.
   ```
 
   ## Usage
 
-  adf
-
-  ## License
+  Use node index.js in the terminal after installation to use app.
 
   ## license
-    this project is licensed under the APACHE 2.0 license
+    this project is licensed under the MIT license
 
   ## Contributing
 
-  undefined
+  Feel free to contribute to this app.
 
   ## Tests
 
-  asdf
+  n/a
 
   ## Questions
 
-  asdf 
+  mrgssg@email.com 
