@@ -1,9 +1,9 @@
-# test 5 
+# README Generator 
   
 
   ## Description
 
-  another
+  Create new README.md
 
   ## Table of Contents
 
@@ -22,20 +22,20 @@
   ## Installation 
 
    ```
-  test
+  use node
   ```
 
   ## Usage
 
-  yes
+  Follow prompts
 
   ## license
     this project is licensed under the APACHE 2.0 license
 
   ## Tests
 
-  adsf
+  n/a
 
   ## Questions
 
-  adsf 
+  mrgssg@email.com 
