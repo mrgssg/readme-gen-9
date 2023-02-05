@@ -1,5 +1,5 @@
 // TODO: Include packages needed for this application
-const license = ["MIT", "GPLv2", "GPLv3", "Apache"]
+const license = ["None", "MIT", "GPLv2", "GPLv3", "Apache"]
 const inquirer = require('inquirer');
 const generateMarkdown = require('./generateMarkdown');
 const fs = require ("fs")

@@ -1,9 +1,9 @@
-# README Generator 
+# readme 
   undefined
 
   ## Description
 
-  Easily create a README.md file
+  test
 
   ## Table of Contents
 
@@ -22,20 +22,20 @@
   ## Installation 
 
    ```
-  n/a
+  test
   ```
 
   ## Usage
 
-  Answer the questions
+  test
 
   ## license
     this project is licensed under the MIT license
 
   ## Tests
 
-  n/a
+  asdf
 
   ## Questions
 
-  mrgssg@email.com 
+  asdf 

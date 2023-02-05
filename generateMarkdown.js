@@ -22,10 +22,10 @@ let badge;
       if (!license) {
         return ""
       }
-  }
+  } 
   return badge;
-
 }
+
 
 
 // TODO: Create a function that returns the license link
