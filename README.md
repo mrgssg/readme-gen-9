@@ -1,9 +1,9 @@
-# readme gen 
+# README Generator 
   undefined
 
   ## Description
 
-  proj info
+  Easily create a README.md file
 
   ## Table of Contents
 
@@ -22,15 +22,15 @@
   ## Installation 
 
    ```
-  ans quest
+  n/a
   ```
 
   ## Usage
 
-  education
+  Answer the questions
 
   ## license
-    this project is licensed under the APACHE 2.0 license
+    this project is licensed under the MIT license
 
   ## Tests
 
@@ -38,4 +38,4 @@
 
   ## Questions
 
-  mrgssg@email 
+  mrgssg@email.com 
